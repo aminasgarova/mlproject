@@ -1,9 +1,13 @@
 pandas
-seaborn
 numpy
-scikit-learn
+seaborn
 matplotlib
--e .
+scikit-learn
+catboost
+xgboost
+Flask
+dill
+#-e .
 
 # -e . means install this project in editable mode
 # Lets you import your own project like a library (import myproject)
