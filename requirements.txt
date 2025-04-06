@@ -1,0 +1,9 @@
+pandas
+seaborn
+numpy
+-e .
+
+# -e . means install this project in editable mode
+# Lets you import your own project like a library (import myproject)
+# Any code changes are immediately reflected — no need to reinstall
+# Runs setup.py to install the project as a package
